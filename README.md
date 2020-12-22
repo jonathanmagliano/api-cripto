@@ -1,4 +1,4 @@
-<img src="./img/001.png" width="90%" alt="#">
+<img src="./img/001.png" width="100%" alt="#">
 
 # API Criptomoedas
 - O teor do projeto é dado por uma requisição de dados de uma API de criptomoedas com JavaScript. Desafio proposto pelo bootcamp da empresa Everis.
